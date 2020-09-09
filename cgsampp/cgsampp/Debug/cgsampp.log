@@ -1,0 +1,102 @@
+﻿  Source.cpp
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(54,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(54,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(83,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(84,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(86,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(86,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(88,28): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(89,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(90,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(112,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(118,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(123,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(124,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(129,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(130,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(136,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(146,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(156,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(164,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(172,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(180,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(188,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(196,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(205,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(294,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(335,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(366,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(381,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(387,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(393,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(399,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(433,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(434,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(435,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(446,27): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(472,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(472,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(472,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(473,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(474,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(475,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(482,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(482,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(482,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(483,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(484,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(485,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(494,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(494,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(494,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(495,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(496,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(497,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(504,24): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(504,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(504,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(505,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(506,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(507,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(514,29): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(514,26): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(514,20): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(515,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(516,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(517,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(523,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(523,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(523,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(524,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(524,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(524,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(525,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(525,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(525,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(526,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(526,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(526,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(527,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(527,20): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(527,15): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(573,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(587,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(588,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(589,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(655,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(666,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(678,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(690,13): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(736,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(738,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(747,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(749,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(758,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(762,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(764,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(775,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(784,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(786,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(790,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Adi\source\repos\cgsampp\cgsampp\Source.cpp(877,42): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  cgsampp.vcxproj -> C:\Users\Adi\source\repos\cgsampp\Debug\cgsampp.exe
